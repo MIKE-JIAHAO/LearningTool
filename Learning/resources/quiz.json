@@ -1,0 +1,47 @@
+{
+    "chapter1": {
+        "name": "Chapter 1 Quiz",
+        "questions": [
+            {
+                "question": "What is the correct file extension for Python files?",
+                "options": [".pyth", ".pt", ".py", ".pyt"],
+                "answer": ".py"
+            },
+            {
+                "question": "How do you insert COMMENTS in Python code?",
+                "options": ["/* This is a comment */", "// This is a comment", "# This is a comment", "-- This is a comment"],
+                "answer": "# This is a comment"
+            }
+        ]
+    },
+    "chapter2": {
+        "name": "Chapter 2 Quiz",
+        "questions": [
+            {
+                "question": "Which method can be used to remove any whitespace from both the beginning and the end of a string?",
+                "options": ["strip()", "trim()", "len()", "ptrim()"],
+                "answer": "strip()"
+            },
+            {
+                "question": "Which operator is used to multiply numbers?",
+                "options": ["%", "*", "x", "#"],
+                "answer": "*"
+            }
+        ]
+    },
+    "chapter3": {
+        "name": "Chapter 3 Quiz",
+        "questions": [
+            {
+                "question": "Which collection is ordered, changeable, and allows duplicate members?",
+                "options": ["LIST", "SET", "DICTIONARY", "TUPLE"],
+                "answer": "LIST"
+            },
+            {
+                "question": "How do you start writing a while loop in Python?",
+                "options": ["while x > y {", "while (x > y)", "while x > y:", "x > y while {"],
+                "answer": "while x > y:"
+            }
+        ]
+    }
+}

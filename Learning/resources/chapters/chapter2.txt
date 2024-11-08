@@ -1,0 +1,8 @@
+Chapter 2: Control Structures
+
+Control the flow of your programs with conditional statements and loops.
+
+Topics:
+- if statements
+- for loops
+- while loops

@@ -1,0 +1,8 @@
+Chapter 1: Introduction to Python
+
+Python is a high-level, interpreted programming language known for its readability and simplicity.
+
+Topics:
+- Python syntax
+- Variables
+- Basic Data Types

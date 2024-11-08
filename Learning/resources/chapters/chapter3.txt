@@ -1,0 +1,9 @@
+Chapter 3: Data Structures
+
+Learn about Python's built-in data structures to store collections of data.
+
+Topics:
+- Lists
+- Tuples
+- Sets
+- Dictionaries
